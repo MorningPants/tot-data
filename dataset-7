@@ -38992,3 +38992,1719 @@
       "attack": 1,
       "cost": 4,
       "durability": 2,
+      "modified_cost": 5
+    }
+  },
+  {
+    "older_card": {
+      "id": "RLK_512",
+      "name": "Glacial Advance",
+      "type": "SPELL",
+      "cost": 3
+    },
+    "newer_card": {
+      "id": "WON_015",
+      "name": "Cenarion Hold",
+      "type": "LOCATION",
+      "cost": 1,
+      "health": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "GVG_053",
+      "name": "Shieldmaiden",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 5,
+      "health": 5,
+      "animation": "GEARS"
+    },
+    "newer_card": {
+      "id": "CFM_649",
+      "name": "Kabal Courier",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 2,
+      "health": 2,
+      "animation": "GEARS"
+    }
+  },
+  {
+    "older_card": {
+      "id": "GVG_098",
+      "name": "Gnomeregan Infantry",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 3,
+      "health": 4,
+      "animation": "GEARS",
+      "modified_cost": 2
+    },
+    "newer_card": {
+      "id": "YOD_042",
+      "name": "The Fist of Ra-den",
+      "type": "WEAPON",
+      "attack": 1,
+      "cost": 4,
+      "durability": 4,
+      "animation": "GEARS",
+      "modified_attack": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "ICC_855",
+      "name": "Hyldnir Frostrider",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 3,
+      "health": 4,
+      "modified_health": 5
+    },
+    "newer_card": {
+      "id": "GIL_833",
+      "name": "Forest Guide",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 4,
+      "health": 6
+    }
+  },
+  {
+    "older_card": {
+      "id": "BAR_540",
+      "name": "Plaguemaw the Rotting",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 4,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "NX2_008",
+      "name": "Blazing Transmutation",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "TID_707",
+      "name": "Submerged Spacerock",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 2,
+      "health": 2,
+      "modified_attack": 3
+    },
+    "newer_card": {
+      "id": "WW_436",
+      "name": "Trolley Problem",
+      "type": "SPELL",
+      "cost": 3,
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "ULD_191",
+      "name": "Beaming Sidekick",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 1,
+      "health": 2,
+      "modified_attack": 2
+    },
+    "newer_card": {
+      "id": "DED_006",
+      "name": "Mr. Smite",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 7,
+      "health": 5,
+      "modified_cost": 8
+    }
+  },
+  {
+    "older_card": {
+      "id": "DAL_052",
+      "name": "Muckmorpher",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 5,
+      "health": 4,
+      "modified_attack": 3
+    },
+    "newer_card": {
+      "id": "ONY_024",
+      "name": "Onyxian Drake",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 4,
+      "health": 5
+    }
+  },
+  {
+    "older_card": {
+      "id": "LOE_079",
+      "name": "Elise Starseeker",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 4,
+      "health": 5,
+      "animation": "COINS",
+      "modified_cost": 3
+    },
+    "newer_card": {
+      "id": "REV_958",
+      "name": "Buffet Biggun",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 4,
+      "health": 4,
+      "animation": "COINS"
+    }
+  },
+  {
+    "older_card": {
+      "id": "DMF_190",
+      "name": "Fantastic Firebird",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 4,
+      "health": 5
+    },
+    "newer_card": {
+      "id": "MAW_101",
+      "name": "Contract Conjurer",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 6,
+      "health": 6,
+      "modified_health": 7
+    }
+  },
+  {
+    "older_card": {
+      "id": "SW_033",
+      "name": "Canal Slogger",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 4,
+      "health": 4,
+      "animation": "DREDGE",
+      "modified_health": 3
+    },
+    "newer_card": {
+      "id": "TSC_073",
+      "name": "Raj Naz'jan",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 2,
+      "health": 3,
+      "animation": "DREDGE",
+      "modified_attack": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "BRM_031",
+      "name": "Chromaggus",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 8,
+      "health": 8
+    },
+    "newer_card": {
+      "id": "YOP_013",
+      "name": "Spiked Wheel",
+      "type": "WEAPON",
+      "attack": 0,
+      "cost": 1,
+      "durability": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "UNG_009",
+      "name": "Ravasaur Runt",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 2,
+      "health": 2,
+      "animation": "SMOKE",
+      "modified_health": 1
+    },
+    "newer_card": {
+      "id": "BT_306",
+      "name": "Shadow Council",
+      "type": "SPELL",
+      "cost": 1,
+      "animation": "SMOKE"
+    }
+  },
+  {
+    "older_card": {
+      "id": "LOE_076",
+      "name": "Sir Finley Mrrgglton",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 1,
+      "health": 3,
+      "animation": "COINS",
+      "modified_health": 4
+    },
+    "newer_card": {
+      "id": "DRG_219",
+      "name": "Lightning Breath",
+      "type": "SPELL",
+      "cost": 3,
+      "animation": "COINS",
+      "modified_cost": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "OG_087",
+      "name": "Servant of Yogg-Saron",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 5,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "JAM_034",
+      "name": "Speaker Stomper",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 4,
+      "health": 4,
+      "modified_attack": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "RLK_512",
+      "name": "Glacial Advance",
+      "type": "SPELL",
+      "cost": 3
+    },
+    "newer_card": {
+      "id": "YOG_513",
+      "name": "Sinister Soulcage",
+      "type": "SPELL",
+      "cost": 4,
+      "modified_cost": 5
+    }
+  },
+  {
+    "older_card": {
+      "id": "AT_040",
+      "name": "Wildwalker",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 4,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "DRG_020",
+      "name": "EVIL Quartermaster",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 3,
+      "health": 3,
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "EX1_166",
+      "name": "Keeper of the Grove",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 4,
+      "health": 4,
+      "modified_cost": 5
+    },
+    "newer_card": {
+      "id": "YOG_512",
+      "name": "Sickly Grimewalker",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 3,
+      "health": 4,
+      "modified_health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "DED_005",
+      "name": "Parrrley",
+      "type": "SPELL",
+      "cost": 1,
+      "animation": "DREDGE",
+      "modified_cost": 0
+    },
+    "newer_card": {
+      "id": "TSC_944",
+      "name": "The Fires of Zin-Azshari",
+      "type": "SPELL",
+      "cost": 2,
+      "animation": "DREDGE",
+      "modified_cost": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "OG_176",
+      "name": "Shadow Strike",
+      "type": "SPELL",
+      "cost": 3,
+      "modified_cost": 4
+    },
+    "newer_card": {
+      "id": "ULD_262",
+      "name": "High Priest Amet",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 4,
+      "health": 7
+    }
+  },
+  {
+    "older_card": {
+      "id": "LOOT_278",
+      "name": "Unidentified Elixir",
+      "type": "SPELL",
+      "cost": 3
+    },
+    "newer_card": {
+      "id": "BT_487",
+      "name": "Hulking Overfiend",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 8,
+      "health": 10
+    }
+  },
+  {
+    "older_card": {
+      "id": "YOP_027",
+      "name": "Bola Shot",
+      "type": "SPELL",
+      "cost": 2
+    },
+    "newer_card": {
+      "id": "WC_027",
+      "name": "Devouring Ectoplasm",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 2,
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "KAR_005",
+      "name": "Kindly Grandmother",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 2,
+      "health": 1,
+      "modified_attack": 0
+    },
+    "newer_card": {
+      "id": "TTN_725",
+      "name": "Tempest Hammer",
+      "type": "WEAPON",
+      "attack": 1,
+      "cost": 4,
+      "durability": 3,
+      "modified_attack": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "DAL_589",
+      "name": "Hunting Party",
+      "type": "SPELL",
+      "cost": 5,
+      "animation": "PAGES"
+    },
+    "newer_card": {
+      "id": "SCH_273",
+      "name": "Ras Frostwhisper",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 5,
+      "health": 6,
+      "animation": "PAGES",
+      "modified_attack": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "TID_744",
+      "name": "Coilfang Constrictor",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 4,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "MAW_020",
+      "name": "Scribbling Stenographer",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 7,
+      "health": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "ULD_719",
+      "name": "Desert Hare",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 3,
+      "health": 1,
+      "modified_cost": 4
+    },
+    "newer_card": {
+      "id": "ETC_314",
+      "name": "Harmonic Pop",
+      "type": "SPELL",
+      "cost": 6,
+      "modified_cost": 5
+    }
+  },
+  {
+    "older_card": {
+      "id": "NX2_001",
+      "name": "Tear Reality",
+      "type": "SPELL",
+      "cost": 4
+    },
+    "newer_card": {
+      "id": "GIFT_03",
+      "name": "Rexxar's Gift",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    }
+  },
+  {
+    "older_card": {
+      "id": "NX2_008",
+      "name": "Blazing Transmutation",
+      "type": "SPELL",
+      "cost": 1
+    },
+    "newer_card": {
+      "id": "YOG_510",
+      "name": "Alarmed Securitybot",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 4,
+      "health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "AT_079",
+      "name": "Mysterious Challenger",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 5,
+      "health": 5,
+      "animation": "COINS",
+      "modified_health": 4
+    },
+    "newer_card": {
+      "id": "LOE_107",
+      "name": "Eerie Statue",
+      "type": "MINION",
+      "attack": 7,
+      "cost": 4,
+      "health": 7,
+      "animation": "COINS"
+    }
+  },
+  {
+    "older_card": {
+      "id": "BT_302",
+      "name": "The Dark Portal",
+      "type": "SPELL",
+      "cost": 4,
+      "modified_cost": 3
+    },
+    "newer_card": {
+      "id": "TID_719",
+      "name": "Commander Ulthok",
+      "type": "MINION",
+      "attack": 7,
+      "cost": 5,
+      "health": 7
+    }
+  },
+  {
+    "older_card": {
+      "id": "BRM_018",
+      "name": "Dragon Consort",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 5,
+      "health": 5,
+      "animation": "DREDGE"
+    },
+    "newer_card": {
+      "id": "TSC_652",
+      "name": "Green-Thumb Gardener",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 6,
+      "health": 5,
+      "animation": "DREDGE"
+    }
+  },
+  {
+    "older_card": {
+      "id": "KAR_036",
+      "name": "Arcane Anomaly",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 1,
+      "health": 1
+    },
+    "newer_card": {
+      "id": "SW_311",
+      "name": "Garrote",
+      "type": "SPELL",
+      "cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "SW_027",
+      "name": "Shiver Their Timbers!",
+      "type": "SPELL",
+      "cost": 1
+    },
+    "newer_card": {
+      "id": "NX2_020",
+      "name": "Cannibalize",
+      "type": "SPELL",
+      "cost": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "WC_015",
+      "name": "Water Moccasin",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 3,
+      "health": 5,
+      "modified_attack": 3
+    },
+    "newer_card": {
+      "id": "JAM_002",
+      "name": "Star Power",
+      "type": "SPELL",
+      "cost": 5,
+      "modified_cost": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "FP1_018",
+      "name": "Duplicate",
+      "type": "SPELL",
+      "cost": 3,
+      "modified_cost": 2
+    },
+    "newer_card": {
+      "id": "YOP_012",
+      "name": "Deathwarden",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 3,
+      "health": 5
+    }
+  },
+  {
+    "older_card": {
+      "id": "AT_015",
+      "name": "Convert",
+      "type": "SPELL",
+      "cost": 3,
+      "modified_cost": 4
+    },
+    "newer_card": {
+      "id": "BAR_890",
+      "name": "Crossroads Gossiper",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 3,
+      "health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "ULD_709",
+      "name": "Armored Goon",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 6,
+      "health": 7,
+      "modified_attack": 7
+    },
+    "newer_card": {
+      "id": "BT_306",
+      "name": "Shadow Council",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    }
+  },
+  {
+    "older_card": {
+      "id": "LOOT_222",
+      "name": "Candleshot",
+      "type": "WEAPON",
+      "attack": 1,
+      "cost": 1,
+      "durability": 3,
+      "modified_attack": 0
+    },
+    "newer_card": {
+      "id": "BOT_104",
+      "name": "Dyn-o-matic",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 5,
+      "health": 4,
+      "modified_cost": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "GVG_026",
+      "name": "Feign Death",
+      "type": "SPELL",
+      "cost": 2,
+      "animation": "GEARS"
+    },
+    "newer_card": {
+      "id": "DRG_073",
+      "name": "Evasive Feywing",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 4,
+      "health": 4,
+      "animation": "GEARS",
+      "modified_health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "DMF_060",
+      "name": "Umbral Owl",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 7,
+      "health": 4,
+      "animation": "DREDGE",
+      "modified_health": 5
+    },
+    "newer_card": {
+      "id": "TSC_648",
+      "name": "Coral Keeper",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 5,
+      "health": 4,
+      "animation": "DREDGE"
+    }
+  },
+  {
+    "older_card": {
+      "id": "GIL_648",
+      "name": "Chief Inspector",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 5,
+      "health": 6,
+      "modified_cost": 4
+    },
+    "newer_card": {
+      "id": "DMF_730",
+      "name": "Moontouched Amulet",
+      "type": "SPELL",
+      "cost": 3,
+      "modified_cost": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "DED_513",
+      "name": "Defias Leper",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 2,
+      "health": 2,
+      "modified_cost": 3
+    },
+    "newer_card": {
+      "id": "AV_285",
+      "name": "Full-Blown Evil",
+      "type": "SPELL",
+      "cost": 3,
+      "modified_cost": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "CFM_816",
+      "name": "Virmen Sensei",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 4,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "BOT_414",
+      "name": "Cloakscale Chemist",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 2,
+      "health": 2,
+      "modified_health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "CFM_760",
+      "name": "Kabal Crystal Runner",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 6,
+      "health": 5
+    },
+    "newer_card": {
+      "id": "WW_337",
+      "name": "Spirit of the Badlands",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "LOE_092",
+      "name": "Arch-Thief Rafaam",
+      "type": "MINION",
+      "attack": 7,
+      "cost": 9,
+      "health": 8,
+      "animation": "COINS",
+      "modified_cost": 8
+    },
+    "newer_card": {
+      "id": "JAM_035",
+      "name": "Grimtotem Buzzkill",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 4,
+      "health": 4,
+      "animation": "COINS"
+    }
+  },
+  {
+    "older_card": {
+      "id": "SW_440",
+      "name": "Call of the Grave",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    },
+    "newer_card": {
+      "id": "DEEP_028",
+      "name": "Crystal Cluster",
+      "type": "SPELL",
+      "cost": 6
+    }
+  },
+  {
+    "older_card": {
+      "id": "DRG_229",
+      "name": "Bronze Explorer",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 3,
+      "modified_attack": 2
+    },
+    "newer_card": {
+      "id": "GIFT_03",
+      "name": "Rexxar's Gift",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    }
+  },
+  {
+    "older_card": {
+      "id": "SCH_182",
+      "name": "Speaker Gidra",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 3,
+      "health": 4,
+      "animation": "PAGES",
+      "modified_cost": 2
+    },
+    "newer_card": {
+      "id": "SW_027",
+      "name": "Shiver Their Timbers!",
+      "type": "SPELL",
+      "cost": 1,
+      "animation": "PAGES",
+      "modified_cost": 0
+    }
+  },
+  {
+    "older_card": {
+      "id": "AT_029",
+      "name": "Buccaneer",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 1,
+      "health": 1,
+      "modified_attack": 3
+    },
+    "newer_card": {
+      "id": "GIFT_04",
+      "name": "Arthas's Gift",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    }
+  },
+  {
+    "older_card": {
+      "id": "AT_007",
+      "name": "Spellslinger",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "TRL_255",
+      "name": "Stampeding Roar",
+      "type": "SPELL",
+      "cost": 6
+    }
+  },
+  {
+    "older_card": {
+      "id": "KAR_035",
+      "name": "Priest of the Feast",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 4,
+      "health": 6,
+      "modified_cost": 3
+    },
+    "newer_card": {
+      "id": "ULD_272",
+      "name": "Holy Ripple",
+      "type": "SPELL",
+      "cost": 2,
+      "modified_cost": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "BRM_001",
+      "name": "Solemn Vigil",
+      "type": "SPELL",
+      "cost": 5,
+      "modified_cost": 6
+    },
+    "newer_card": {
+      "id": "DED_500",
+      "name": "Wealth Redistributor",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 5,
+      "health": 8,
+      "modified_cost": 6
+    }
+  },
+  {
+    "older_card": {
+      "id": "BOT_447",
+      "name": "Crystallizer",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 1,
+      "health": 3
+    },
+    "newer_card": {
+      "id": "BOT_437",
+      "name": "Goblin Prank",
+      "type": "SPELL",
+      "cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "YOD_005",
+      "name": "Fresh Scent",
+      "type": "SPELL",
+      "cost": 2,
+      "modified_cost": 1
+    },
+    "newer_card": {
+      "id": "TID_717",
+      "name": "Herald of Shadows",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 3,
+      "health": 2,
+      "modified_attack": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "TSC_948",
+      "name": "Gifts of Azshara",
+      "type": "SPELL",
+      "cost": 2,
+      "animation": "DREDGE",
+      "modified_cost": 1
+    },
+    "newer_card": {
+      "id": "REV_947",
+      "name": "Muckborn Servant",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 3,
+      "health": 4,
+      "animation": "DREDGE",
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "BT_753",
+      "name": "Mana Burn",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    },
+    "newer_card": {
+      "id": "GIFT_03",
+      "name": "Rexxar's Gift",
+      "type": "SPELL",
+      "cost": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "RLK_122",
+      "name": "The Scourge",
+      "type": "SPELL",
+      "cost": 9
+    },
+    "newer_card": {
+      "id": "WW_336",
+      "name": "Prismatic Beam",
+      "type": "SPELL",
+      "cost": 8,
+      "modified_cost": 7
+    }
+  },
+  {
+    "older_card": {
+      "id": "YOP_009",
+      "name": "Rally!",
+      "type": "SPELL",
+      "cost": 4
+    },
+    "newer_card": {
+      "id": "WC_805",
+      "name": "Frostweave Dungeoneer",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 3,
+      "health": 3,
+      "modified_attack": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "BT_120",
+      "name": "Warmaul Challenger",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 3,
+      "health": 10,
+      "modified_health": 9
+    },
+    "newer_card": {
+      "id": "WON_071",
+      "name": "Burgle",
+      "type": "SPELL",
+      "cost": 3,
+      "modified_cost": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "ONY_013",
+      "name": "Bracing Cold",
+      "type": "SPELL",
+      "cost": 2,
+      "modified_cost": 3
+    },
+    "newer_card": {
+      "id": "TID_700",
+      "name": "Disarming Elemental",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 4,
+      "health": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "LOOT_111",
+      "name": "Scorp-o-matic",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 2,
+      "health": 2,
+      "modified_attack": 2
+    },
+    "newer_card": {
+      "id": "JAM_022",
+      "name": "Deafen",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "EX1_032",
+      "name": "Sunwalker",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 6,
+      "health": 5,
+      "animation": "PAGES",
+      "modified_health": 6
+    },
+    "newer_card": {
+      "id": "SCH_199",
+      "name": "Transfer Student",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 2,
+      "health": 2,
+      "animation": "PAGES",
+      "modified_health": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "BRM_003",
+      "name": "Dragon's Breath",
+      "type": "SPELL",
+      "cost": 5
+    },
+    "newer_card": {
+      "id": "BRM_024",
+      "name": "Drakonid Crusher",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 6,
+      "health": 6,
+      "modified_attack": 5
+    }
+  },
+  {
+    "older_card": {
+      "id": "LOE_021",
+      "name": "Dart Trap",
+      "type": "SPELL",
+      "cost": 2,
+      "animation": "COINS"
+    },
+    "newer_card": {
+      "id": "DMF_189",
+      "name": "Costumed Entertainer",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 2,
+      "health": 2,
+      "animation": "COINS",
+      "modified_health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "ULD_265",
+      "name": "Embalming Ritual",
+      "type": "SPELL",
+      "cost": 1,
+      "animation": "DREDGE"
+    },
+    "newer_card": {
+      "id": "TSC_658",
+      "name": "Hedra the Heretic",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 7,
+      "health": 5,
+      "animation": "DREDGE"
+    }
+  },
+  {
+    "older_card": {
+      "id": "NX2_007",
+      "name": "Frostfin Chomper",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 3,
+      "health": 3
+    },
+    "newer_card": {
+      "id": "GIFT_08",
+      "name": "Illidan's Gift",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "AT_133",
+      "name": "Gadgetzan Jouster",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 1,
+      "health": 2
+    },
+    "newer_card": {
+      "id": "TID_000",
+      "name": "Spirit of the Tides",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 2,
+      "health": 2,
+      "modified_attack": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "DAL_774",
+      "name": "Exotic Mountseller",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 7,
+      "health": 8
+    },
+    "newer_card": {
+      "id": "WON_340",
+      "name": "Tomb Pillager",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 4,
+      "health": 4,
+      "modified_cost": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "LOE_020",
+      "name": "Desert Camel",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 3,
+      "health": 4,
+      "animation": "COINS"
+    },
+    "newer_card": {
+      "id": "LOOT_051",
+      "name": "Lesser Jasper Spellstone",
+      "type": "SPELL",
+      "cost": 1,
+      "animation": "COINS",
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "ULD_178",
+      "name": "Siamat",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 7,
+      "health": 6,
+      "animation": "PAGES",
+      "modified_attack": 5
+    },
+    "newer_card": {
+      "id": "SCH_701",
+      "name": "Soul Shear",
+      "type": "SPELL",
+      "cost": 2,
+      "animation": "PAGES"
+    }
+  },
+  {
+    "older_card": {
+      "id": "ICC_812",
+      "name": "Meat Wagon",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 4,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "RLK_604",
+      "name": "Thori'belore",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 4,
+      "health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "EX1_091",
+      "name": "Cabal Shadow Priest",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 6,
+      "health": 5
+    },
+    "newer_card": {
+      "id": "BAR_535",
+      "name": "Thickhide Kodo",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 4,
+      "health": 5
+    }
+  },
+  {
+    "older_card": {
+      "id": "RLK_545",
+      "name": "Energy Shaper",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "WW_346",
+      "name": "Blast Tortoise",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 6,
+      "health": 7
+    }
+  },
+  {
+    "older_card": {
+      "id": "ULD_167",
+      "name": "Diseased Vulture",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 4,
+      "health": 5,
+      "animation": "DREDGE"
+    },
+    "newer_card": {
+      "id": "TSC_775",
+      "name": "Azsharan Ritual",
+      "type": "SPELL",
+      "cost": 4,
+      "animation": "DREDGE"
+    }
+  },
+  {
+    "older_card": {
+      "id": "BAR_326",
+      "name": "Razorfen Beastmaster",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 3,
+      "modified_attack": 4
+    },
+    "newer_card": {
+      "id": "WC_805",
+      "name": "Frostweave Dungeoneer",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 3,
+      "health": 3,
+      "modified_attack": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "FP1_020",
+      "name": "Avenge",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    },
+    "newer_card": {
+      "id": "ETC_535",
+      "name": "Synthesize",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "BT_703",
+      "name": "Cursed Vagrant",
+      "type": "MINION",
+      "attack": 7,
+      "cost": 7,
+      "health": 5
+    },
+    "newer_card": {
+      "id": "BT_006",
+      "name": "Evocation",
+      "type": "SPELL",
+      "cost": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "DED_519",
+      "name": "Defias Cannoneer",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 3,
+      "modified_cost": 2
+    },
+    "newer_card": {
+      "id": "ETC_410",
+      "name": "Snakebite",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 2,
+      "health": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "DAL_732",
+      "name": "Keeper Stalladris",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 2,
+      "health": 3,
+      "modified_attack": 3
+    },
+    "newer_card": {
+      "id": "BT_714",
+      "name": "Frozen Shadoweaver",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 3,
+      "health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "GVG_107",
+      "name": "Enhance-o Mechano",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 4,
+      "health": 2,
+      "animation": "GEARS",
+      "modified_cost": 3
+    },
+    "newer_card": {
+      "id": "BRM_026",
+      "name": "Hungry Dragon",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 4,
+      "health": 6,
+      "animation": "GEARS"
+    }
+  },
+  {
+    "older_card": {
+      "id": "DAL_608",
+      "name": "Magic Trick",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    },
+    "newer_card": {
+      "id": "TTN_922",
+      "name": "Gear Shift",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    }
+  },
+  {
+    "older_card": {
+      "id": "CFM_609",
+      "name": "Fel Orc Soulfiend",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 7
+    },
+    "newer_card": {
+      "id": "ETC_312",
+      "name": "Idol's Adoration",
+      "type": "WEAPON",
+      "attack": 0,
+      "cost": 1,
+      "durability": 2,
+      "modified_cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "KAR_021",
+      "name": "Wicked Witchdoctor",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 4,
+      "modified_health": 5
+    },
+    "newer_card": {
+      "id": "YOG_526",
+      "name": "Tentacle Grip",
+      "type": "SPELL",
+      "cost": 2,
+      "modified_cost": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "REV_901",
+      "name": "Dispossessed Soul",
+      "type": "MINION",
+      "attack": 4,
+      "cost": 4,
+      "health": 5
+    },
+    "newer_card": {
+      "id": "NX2_012",
+      "name": "Rake",
+      "type": "SPELL",
+      "cost": 2
+    }
+  },
+  {
+    "older_card": {
+      "id": "EX1_410",
+      "name": "Shield Slam",
+      "type": "SPELL",
+      "cost": 1,
+      "modified_cost": 0
+    },
+    "newer_card": {
+      "id": "OG_221",
+      "name": "Selfless Hero",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 1,
+      "health": 1,
+      "modified_attack": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "GIL_529",
+      "name": "Spellshifter",
+      "type": "MINION",
+      "attack": 1,
+      "cost": 2,
+      "health": 4,
+      "modified_cost": 3
+    },
+    "newer_card": {
+      "id": "ULD_145",
+      "name": "Brazen Zealot",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 1,
+      "health": 1,
+      "modified_health": 0
+    }
+  },
+  {
+    "older_card": {
+      "id": "BAR_032",
+      "name": "Piercing Shot",
+      "type": "SPELL",
+      "cost": 4
+    },
+    "newer_card": {
+      "id": "NX2_013",
+      "name": "ZOMBEEEES!!!",
+      "type": "SPELL",
+      "cost": 2,
+      "modified_cost": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "NX2_004",
+      "name": "Ransack",
+      "type": "SPELL",
+      "cost": 0
+    },
+    "newer_card": {
+      "id": "JAM_032",
+      "name": "Fiddlefire Imp",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "UNG_071",
+      "name": "Giant Mastodon",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 9,
+      "health": 12,
+      "animation": "SMOKE",
+      "modified_cost": 10
+    },
+    "newer_card": {
+      "id": "DED_006",
+      "name": "Mr. Smite",
+      "type": "MINION",
+      "attack": 6,
+      "cost": 7,
+      "health": 5,
+      "animation": "SMOKE"
+    }
+  },
+  {
+    "older_card": {
+      "id": "AT_108",
+      "name": "Armored Warhorse",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 4,
+      "health": 3,
+      "modified_cost": 5
+    },
+    "newer_card": {
+      "id": "AV_115",
+      "name": "Amplified Snowflurry",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 2,
+      "health": 3
+    }
+  },
+  {
+    "older_card": {
+      "id": "TRL_517",
+      "name": "Arena Fanatic",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 4,
+      "health": 3,
+      "modified_cost": 5
+    },
+    "newer_card": {
+      "id": "SW_024",
+      "name": "Lothar",
+      "type": "MINION",
+      "attack": 7,
+      "cost": 7,
+      "health": 7,
+      "modified_health": 8
+    }
+  },
+  {
+    "older_card": {
+      "id": "BRM_034",
+      "name": "Blackwing Corruptor",
+      "type": "MINION",
+      "attack": 5,
+      "cost": 5,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "ICC_058",
+      "name": "Brrrloc",
+      "type": "MINION",
+      "attack": 2,
+      "cost": 2,
+      "health": 2,
+      "modified_health": 1
+    }
+  },
+  {
+    "older_card": {
+      "id": "REV_374",
+      "name": "Shadowborn",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 3,
+      "modified_cost": 2
+    },
+    "newer_card": {
+      "id": "REV_378",
+      "name": "Forensic Duster",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 3,
+      "health": 4
+    }
+  },
+  {
+    "older_card": {
+      "id": "ULD_208",
+      "name": "Khartut Defender",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 6,
+      "health": 4
+    },
+    "newer_card": {
+      "id": "WW_419",
+      "name": "Ogre-Gang Rider",
+      "type": "MINION",
+      "attack": 3,
+      "cost": 4,
+      "health": 6,
+      "modified_attack": 4
+    }
+  }
+]
